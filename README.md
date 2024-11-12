@@ -17,11 +17,6 @@ direnv allow
 echo '.envrc' >> .gitignore
 ```
 
-### tsconfig作る
-```
-npx tsc --init
-```
-
 ## 設定
 
 `transferIssues.ts` 内の変数を必要に応じて編集：
